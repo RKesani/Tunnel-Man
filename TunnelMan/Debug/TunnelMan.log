@@ -1,0 +1,4 @@
+﻿  StudentWorld.cpp
+C:\Users\rithv\UCLA\CS32\Proj4\TunnelMan-skeleton-windows\TunnelMan\TunnelMan\StudentWorld.cpp(49,31): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\rithv\UCLA\CS32\Proj4\TunnelMan-skeleton-windows\TunnelMan\TunnelMan\StudentWorld.cpp(231,87): warning C4018: '<': signed/unsigned mismatch
+  TunnelMan.vcxproj -> C:\Users\rithv\UCLA\CS32\Proj4\TunnelMan-skeleton-windows\TunnelMan\Debug\TunnelMan.exe
